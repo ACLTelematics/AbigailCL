@@ -1,54 +1,147 @@
-<div align="center" width="50">
-    <img alt="AbigailCL" src="./assets/oh hi there.png" width="300"/>
-</div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Abigail Canche L</h1>
+# 👋 Hola, soy Abigail Canche
 
-## About Me :
+## 💼 Perfil Profesional
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+Ingeniera en Sistemas Computacionales con más de **10 años de experiencia** en **Soporte de TI, Administración de Servidores, Redes, Telecomunicaciones y Sistemas de Seguridad**. Sólida trayectoria en **infraestructura de red, administración de servidores Linux y Windows, sistemas PBX/VoIP, instalaciones CCTV**, y soporte técnico en entornos productivos. Capacidad comprobada para mantener sistemas críticos, diagnosticar incidencias complejas y asegurar la alta disponibilidad de los servicios de TI.
 
-<br>
+---
 
-## Connect with me ☕ :
+## 🧠 Competencias Técnicas
 
-<br>
+### 🔌 Redes y Seguridad (Nivel intermedio – experiencia práctica)
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+<img src="https://img.icons8.com/color/48/router.png"/> <img src="https://img.icons8.com/color/48/firewall.png"/> <img src="https://img.icons8.com/color/48/wifi.png"/>
 
-<br>
+* **Fortinet (FortiGate):** configuración de reglas de firewall, NAT, VPN básicas y monitoreo
+* **Ubiquiti:** configuración de redes LAN/WLAN, puntos de acceso y switches
+* **MikroTik:** routing, firewall básico, VLAN y control de ancho de banda
+* Diagnóstico y resolución de problemas de red en entornos productivos
 
-## What I am Good at 🧑‍💻 :
+### 🖥️ Administración de Sistemas
 
-<br>
+<img src="https://img.icons8.com/color/48/windows-10.png"/> <img src="https://img.icons8.com/color/48/linux.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+* Administración de Windows Server
+* Administración de servidores Linux
+* Gestión de usuarios y accesos
+* Instalación y mantenimiento de hardware y software
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+### ☎️ Telecomunicaciones y Sistemas de Seguridad
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/voip-gateway.png"/> <img src="https://img.icons8.com/color/48/cctv.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+* Sistemas PBX basados en Linux
+* Arquitectura VoIP y softphones SIP
+* Instalación, mantenimiento y diagnóstico de sistemas CCTV
 
-<br>
+### 🐍 Python y Automatización
 
-## GitHub Stats 📈 :
+<img src="https://img.icons8.com/color/48/python--v1.png"/>
 
-<br>
+* Python (nivel básico) aplicado a análisis de datos y automatización
+* Análisis exploratorio de datos a nivel introductorio
+* Scripts simples para tareas de soporte y operaciones de TI
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+### 🤖 IA y Automatización (En formación)
 
-<br>
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
 
-## GitHub Thropies 🏆 :
+* Fundamentos de inteligencia artificial aplicada a operaciones de TI
+* Prompt engineering (nivel introductorio)
+* Uso de herramientas de IA para productividad y automatización
 
-<br>
+### 📺 Experiencia Técnica Adicional
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+<img src="https://img.icons8.com/color/48/monitor.png"/> <img src="https://img.icons8.com/color/48/raspberry-pi.png"/>
 
-<br>
+* Configuración de sistemas de videowall
+* Implementación y configuración de Raspberry Pi para entornos de videowall
+* Sincronización de pantallas y diagnóstico básico
 
+---
+
+## 💻 Experiencia Profesional
+
+### 🧑‍💻 Soporte de TI – Administradora de Servidores (Jornada parcial)
+
+**Atlantis Submarines Cozumel** | *Julio 2015 – Actualidad* | México
+
+* Implementación, mantenimiento, monitoreo y soporte de redes de comunicación y sistemas informáticos.
+* Diagnóstico y resolución de incidencias de hardware, software y red.
+* Instalación y configuración de equipos de cómputo, servidores, impresoras, escáneres y dispositivos de red.
+* Gestión de cuentas de usuario, accesos y contraseñas.
+* Planificación y ejecución de mantenimiento preventivo y correctivo.
+* Elaboración de documentación técnica, reportes y diagramas de sistemas.
+
+**PBX y VoIP**
+
+* Administración y mantenimiento de sistemas PBX basados en Linux.
+* Gestión de arquitectura VoIP, softphones SIP y conmutadores telefónicos.
+
+**CCTV y Seguridad**
+
+* Instalación y mantenimiento de sistemas de videovigilancia.
+* Diagnóstico de dispositivos electrónicos de seguridad (cámaras, monitores y equipos de audio).
+* Planeación de instalaciones y adquisición de materiales para proyectos de seguridad.
+
+---
+
+### 🌐 Community Manager y Administración Web
+
+**Costamed** | *Agosto 2012 – Enero 2015* | Cozumel, México
+
+* Implementación y mejora continua de la estrategia de comunicación digital.
+* Gestión de redes sociales para generación de interacción, tráfico, prospectos y ventas.
+* Administración y mantenimiento de sitios web en WordPress.
+* Actualizaciones backend y frontend utilizando PHP, MySQL, jQuery, HTML y CSS.
+
+---
+
+### 💻 Desarrolladora Web
+
+**Interactive Cozumel** | *Enero 2011 – Noviembre 2011* | Cozumel, México
+
+* Mantenimiento de sitios web y migración de contenidos.
+* Modificaciones en HTML y CSS.
+* Elaboración de documentación técnica y capacitación a usuarios.
+* Uso de PHP, MySQL, Photoshop y Dreamweaver.
+
+---
+
+## 🎓 Educación
+
+🎓 **Ingeniería en Sistemas Computacionales**
+Universidad de Valladolid Yucatán | *2005 – 2010*
+
+* Enfoque en administración de servidores Windows y Linux, redes y telecomunicaciones LAN/WAN.
+
+🎓 **Cisco Networking Academy**
+Tecnologías de la Información | *2016*
+
+---
+
+## 🚀 Proyectos
+
+### 🌐 Accesfy – Plataforma SaaS de Control de Acceso para Gimnasios
+
+* Desarrollo **Full Stack** de una plataforma SaaS para control de acceso mediante huella dactilar.
+* Integración de software con infraestructura y dispositivos de autenticación.
+* Proyecto en desarrollo activo.
+
+---
+
+## 🌍 Idiomas
+
+* Español: Nativo
+* **Inglés: C1 (Dominio profesional)**
+
+---
+
+## 📫 Contacto
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/abigailnetwork/](https://www.linkedin.com/in/abigailnetwork/)
+* 🌐 GitHub: [https://github.com/ACLTelematics](https://github.com/ACLTelematics)
+
+---
+
+⭐ *Este repositorio representa mi currículum profesional y portafolio técnico. Abierta a oportunidades relacionadas con Soporte de TI, Administración de Redes, Infraestructura, Seguridad y Sistemas.*
