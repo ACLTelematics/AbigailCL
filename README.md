@@ -1,147 +1,188 @@
-# 👋 Hola, soy Abigail Canche
+👋 Hola, soy Abigail Canche
+💼 Perfil Profesional
 
-## 💼 Perfil Profesional
+Ingeniera en Sistemas Computacionales con más de 10 años de experiencia en Infraestructura de TI, Networking y Telecomunicaciones. Especializada en administración de redes, firewalls, servidores Linux/Windows, sistemas VoIP y seguridad perimetral.
 
-Ingeniera en Sistemas Computacionales con más de **10 años de experiencia** en **Soporte de TI, Administración de Servidores, Redes, Telecomunicaciones y Sistemas de Seguridad**. Sólida trayectoria en **infraestructura de red, administración de servidores Linux y Windows, sistemas PBX/VoIP, instalaciones CCTV**, y soporte técnico en entornos productivos. Capacidad comprobada para mantener sistemas críticos, diagnosticar incidencias complejas y asegurar la alta disponibilidad de los servicios de TI.
+Experiencia sólida en entornos productivos asegurando alta disponibilidad, estabilidad operativa y resolución de incidencias críticas. Actualmente en transición estratégica hacia Infraestructura & DevOps, integrando automatización y buenas prácticas modernas de operación.
 
----
-
-## 🧠 Competencias Técnicas
-
-### 🔌 Redes y Seguridad (Nivel intermedio – experiencia práctica)
-
+🧠 Competencias Técnicas
+🌐 Redes, Networking y Seguridad
 <img src="https://img.icons8.com/color/48/router.png"/> <img src="https://img.icons8.com/color/48/firewall.png"/> <img src="https://img.icons8.com/color/48/wifi.png"/>
+🔐 Fortinet (FortiGate)
 
-* **Fortinet (FortiGate):** configuración de reglas de firewall, NAT, VPN básicas y monitoreo
-* **Ubiquiti:** configuración de redes LAN/WLAN, puntos de acceso y switches
-* **MikroTik:** routing, firewall básico, VLAN y control de ancho de banda
-* Diagnóstico y resolución de problemas de red en entornos productivos
+Configuración de políticas de firewall
 
-### 🖥️ Administración de Sistemas
+NAT y control de tráfico
 
+Configuración de VPN (site-to-site y acceso remoto básico)
+
+Monitoreo y análisis de logs
+
+Segmentación de red y seguridad perimetral
+
+🌍 MikroTik
+
+Routing estático
+
+VLAN y segmentación
+
+Firewall básico
+
+Control de ancho de banda
+
+Configuración de Hotspot (portal cautivo, perfiles de usuario, control de sesiones y autenticación)
+
+📡 Ubiquiti
+
+Implementación de redes LAN/WLAN empresariales
+
+Configuración de Access Points
+
+Administración de switches
+
+Diagnóstico de conectividad
+
+🛠️ Soporte e Infraestructura de Red
+
+Diagnóstico de fallas en entornos productivos
+
+Resolución de problemas de conectividad
+
+Documentación y diagramas de red
+
+Mantenimiento preventivo y correctivo
+
+🖥️ Administración de Sistemas
 <img src="https://img.icons8.com/color/48/windows-10.png"/> <img src="https://img.icons8.com/color/48/linux.png"/>
 
-* Administración de Windows Server
-* Administración de servidores Linux
-* Gestión de usuarios y accesos
-* Instalación y mantenimiento de hardware y software
+Administración de Windows Server
 
-### ☎️ Telecomunicaciones y Sistemas de Seguridad
+Administración de servidores Linux
 
-<img src="https://img.icons8.com/color/48/voip-gateway.png"/> <img src="https://img.icons8.com/color/48/cctv.png"/>
+Gestión de usuarios y accesos
 
-* Sistemas PBX basados en Linux
-* Arquitectura VoIP y softphones SIP
-* Instalación, mantenimiento y diagnóstico de sistemas CCTV
+Instalación y mantenimiento de hardware y software
 
-### 🐍 Python y Automatización
+Gestión de respaldos y continuidad operativa
 
-<img src="https://img.icons8.com/color/48/python--v1.png"/>
+☎️ Telecomunicaciones y VoIP
+<img src="https://img.icons8.com/color/48/voip-gateway.png"/>
 
-* Python (nivel básico) aplicado a análisis de datos y automatización
-* Análisis exploratorio de datos a nivel introductorio
-* Scripts simples para tareas de soporte y operaciones de TI
+Administración de sistemas PBX basados en Linux
 
-### 🤖 IA y Automatización (En formación)
+Arquitectura VoIP (SIP, extensiones, troncales)
 
-<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
+Configuración de softphones
 
-* Fundamentos de inteligencia artificial aplicada a operaciones de TI
-* Prompt engineering (nivel introductorio)
-* Uso de herramientas de IA para productividad y automatización
+Diagnóstico de calidad de llamadas (latencia, jitter, pérdida de paquetes)
 
-### 📺 Experiencia Técnica Adicional
+Integración de telefonía IP con infraestructura de red
 
-<img src="https://img.icons8.com/color/48/monitor.png"/> <img src="https://img.icons8.com/color/48/raspberry-pi.png"/>
+⚙️ DevOps e Infraestructura (En transición profesional)
+<img src="https://img.icons8.com/color/48/devops.png"/>
 
-* Configuración de sistemas de videowall
-* Implementación y configuración de Raspberry Pi para entornos de videowall
-* Sincronización de pantallas y diagnóstico básico
+Fundamentos de cultura DevOps
 
----
+Automatización básica con Python
 
-## 💻 Experiencia Profesional
+Scripts para tareas operativas
 
-### 🧑‍💻 Soporte de TI – Administradora de Servidores (Jornada parcial)
+Monitoreo de servicios
 
-**Atlantis Submarines Cozumel** | *Julio 2015 – Actualidad* | México
+Documentación y estandarización de procesos
 
-* Implementación, mantenimiento, monitoreo y soporte de redes de comunicación y sistemas informáticos.
-* Diagnóstico y resolución de incidencias de hardware, software y red.
-* Instalación y configuración de equipos de cómputo, servidores, impresoras, escáneres y dispositivos de red.
-* Gestión de cuentas de usuario, accesos y contraseñas.
-* Planificación y ejecución de mantenimiento preventivo y correctivo.
-* Elaboración de documentación técnica, reportes y diagramas de sistemas.
+Mejora continua de infraestructura
 
-**PBX y VoIP**
+💼 Experiencia Profesional
+🧑‍💻 Soporte de TI – Administradora de Servidores
 
-* Administración y mantenimiento de sistemas PBX basados en Linux.
-* Gestión de arquitectura VoIP, softphones SIP y conmutadores telefónicos.
+Atlantis Submarines Cozumel
+📍 México | Julio 2015 – Actualidad
 
-**CCTV y Seguridad**
+Implementación y mantenimiento de infraestructura de red y sistemas.
 
-* Instalación y mantenimiento de sistemas de videovigilancia.
-* Diagnóstico de dispositivos electrónicos de seguridad (cámaras, monitores y equipos de audio).
-* Planeación de instalaciones y adquisición de materiales para proyectos de seguridad.
+Administración de servidores Linux y Windows.
 
----
+Gestión de firewall y seguridad perimetral.
 
-### 🌐 Community Manager y Administración Web
+Diagnóstico y resolución de incidencias críticas.
 
-**Costamed** | *Agosto 2012 – Enero 2015* | Cozumel, México
+Gestión de usuarios, accesos y políticas de seguridad.
 
-* Implementación y mejora continua de la estrategia de comunicación digital.
-* Gestión de redes sociales para generación de interacción, tráfico, prospectos y ventas.
-* Administración y mantenimiento de sitios web en WordPress.
-* Actualizaciones backend y frontend utilizando PHP, MySQL, jQuery, HTML y CSS.
+Documentación técnica y diagramas de red.
 
----
+Planificación de mantenimiento preventivo y correctivo.
 
-### 💻 Desarrolladora Web
+🔹 PBX y VoIP
 
-**Interactive Cozumel** | *Enero 2011 – Noviembre 2011* | Cozumel, México
+Administración de sistemas PBX basados en Linux.
 
-* Mantenimiento de sitios web y migración de contenidos.
-* Modificaciones en HTML y CSS.
-* Elaboración de documentación técnica y capacitación a usuarios.
-* Uso de PHP, MySQL, Photoshop y Dreamweaver.
+Gestión de arquitectura VoIP y telefonía IP.
 
----
+🔹 Seguridad y CCTV
 
-## 🎓 Educación
+Instalación y mantenimiento de sistemas de videovigilancia.
 
-🎓 **Ingeniería en Sistemas Computacionales**
-Universidad de Valladolid Yucatán | *2005 – 2010*
+Diagnóstico de dispositivos electrónicos de seguridad.
 
-* Enfoque en administración de servidores Windows y Linux, redes y telecomunicaciones LAN/WAN.
+Planeación de infraestructura para proyectos de seguridad.
 
-🎓 **Cisco Networking Academy**
-Tecnologías de la Información | *2016*
+🌐 Community Manager y Administración Web
 
----
+Costamed
+Cozumel, México | Agosto 2012 – Enero 2015
 
-## 🚀 Proyectos
+Estrategia de comunicación digital.
 
-### 🌐 Accesfy – Plataforma SaaS de Control de Acceso para Gimnasios
+Gestión de redes sociales.
 
-* Desarrollo **Full Stack** de una plataforma SaaS para control de acceso mediante huella dactilar.
-* Integración de software con infraestructura y dispositivos de autenticación.
-* Proyecto en desarrollo activo.
+Administración de sitios en WordPress.
 
----
+Actualizaciones backend y frontend (PHP, MySQL, HTML, CSS, jQuery).
 
-## 🌍 Idiomas
+💻 Desarrolladora Web
 
-* Español: Nativo
-* **Inglés: C1 (Dominio profesional)**
+Interactive Cozumel
+Cozumel, México | Enero 2011 – Noviembre 2011
 
----
+Mantenimiento y migración de sitios web.
 
-## 📫 Contacto
+Modificaciones en HTML y CSS.
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/abigailnetwork/](https://www.linkedin.com/in/abigailnetwork/)
-* 🌐 GitHub: [https://github.com/ACLTelematics](https://github.com/ACLTelematics)
+Uso de PHP, MySQL, Photoshop y Dreamweaver.
 
----
+Capacitación técnica a usuarios.
 
-⭐ *Este repositorio representa mi currículum profesional y portafolio técnico. Abierta a oportunidades relacionadas con Soporte de TI, Administración de Redes, Infraestructura, Seguridad y Sistemas.*
+🚀 Proyecto Destacado
+🌐 Accesfy – Plataforma SaaS de Control de Acceso
+
+Desarrollo Full Stack de plataforma SaaS.
+
+Integración con dispositivos biométricos.
+
+Infraestructura y arquitectura de red.
+
+Proyecto en desarrollo activo.
+
+🎓 Educación
+
+🎓 Ingeniería en Sistemas Computacionales
+Universidad de Valladolid Yucatán | 2005 – 2010
+
+🎓 Cisco Networking Academy | 2016
+
+🌍 Idiomas
+
+Español: Nativo
+
+Inglés: C1 (Dominio profesional)
+
+📫 Contacto
+
+💼 LinkedIn:
+https://www.linkedin.com/in/abigailnetwork/
+
+🌐 GitHub:
+https://github.com/ACLTelematics
+
+⭐ Abierta a oportunidades en Networking, Infraestructura, Telecomunicaciones, Seguridad Perimetral y transición a DevOps.
